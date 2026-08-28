@@ -1,0 +1,54 @@
+.form{
+    width: 700px;
+    height: 500px;
+    margin : 100px auto;
+    background-color: white;
+    border: solid 30px white;
+    border-radius: 10px;
+    font-size: text: large;
+}
+
+body{
+    background-color: rgb(111, 111, 231);
+}
+
+input {
+    width: 200px;
+    height: 35px;
+    padding: 0 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.left{
+    margin-left: 40px;
+}
+
+.more{
+    margin-left: 85px;
+}
+
+.second{
+    margin-left: 56px;
+}
+
+.alittle{
+    margin-left: 30px;
+}
+
+.boshqa{
+    width: 50px;
+    height: 15px;
+    align-content: center;
+}
+
+.btn{
+    width: 500px;
+    height: 120px;
+    border-radius: 100px;
+    background-color: rgb(111, 111, 231) ;
+    font-size: 50px; 
+    text-align: center;
+    margin-left: 80px;
+}
+
